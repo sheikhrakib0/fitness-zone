@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 # fitness zone
 
-This project was bootstrapped with React App and The live site link here [Parallax Programmers](https://parallax-programmers-by-rakib.netlify.app/).
+This project was bootstrapped with React App and The live site link here [fitness zone](https://fitness-zone-by-rakib.netlify.app/).
 
 ## Motive
 
