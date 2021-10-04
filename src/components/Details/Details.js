@@ -7,7 +7,7 @@ const Details = (props) => {
     const {id} = useParams();
     const [service, setService] = useState({});
     useEffect(()=>{
-        const url =`./fake.JSON${id}`;
+        const url =`./fake.JSON${id}`; 
         fetch(url)
         .then(res=>res.json())
         .then(data=>console.log(data))

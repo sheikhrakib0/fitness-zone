@@ -2,6 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { useEffect, useState } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import './App.css';
+import About from './components/About/About';
 import Details from './components/Details/Details';
 import Events from './components/Events/Events';
 import Footer from './components/Footer/Footer';
@@ -36,6 +37,9 @@ function App() {
           </Route>
           <Route path='/events'>
             <Events></Events>
+          </Route>
+          <Route path='/about'>
+            <About></About>
           </Route>
           <Route exact path='*'>
             <NotFound></NotFound>
