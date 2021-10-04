@@ -1,0 +1,20 @@
+.header {
+    background-color: rgb(49, 41, 41);
+    height: 400px;
+    width: 100%;
+    }
+  .title {
+    color: white;
+    font-weight: 700;
+    font-size: 45px;
+  }
+  .join-btn {
+    background-color: crimson;
+    outline: none;
+    border: none;
+    padding: 12px 30px;
+    color: white;
+  }
+  .opinion{
+      color: crimson;
+  }

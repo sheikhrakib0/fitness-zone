@@ -1,0 +1,19 @@
+.home-welcome{
+    margin: 50px 0;
+}
+.home-welcome h1{
+    font-weight: 700;
+    font-size: 43px;
+}
+.home-courses{
+    background-color: rgb(212, 203, 203);
+    margin-top: 20px;
+    padding: 20px;
+
+}
+.all-card{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr;
+}

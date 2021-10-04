@@ -1,0 +1,15 @@
+.bar-heading{
+    color: crimson;
+    font-weight: 700;
+}
+
+.item {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
